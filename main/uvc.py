@@ -1,8 +1,6 @@
 """Ryerson University ELE 70A Capstone Design Project Fall 2020:
 Title: XF06-UV-C BASED GERMS DISINFECTING MACHINE
 Group Members: Christopher Jarvis, Alexis Ostrowski, Daniel Ounjankov, Haider Riaz Bosal
-Github Repo: https://github.com/RyeHighEng/Capstone-Project---UVC-Disinfecting-Machine.git
-NOTE: GITHUB repo is outdated and needs to be merged with local changes.
 """
 import tkinter as tk
 from PIL import Image,ImageTk
