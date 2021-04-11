@@ -20,6 +20,6 @@ After the installation is complete you can test the functionality of the of the 
 
 Adjusting Gain of Microphone:
 
-1. Windows10 - [I'm an inline-style link with title](https://support.shadowhealth.com/hc/en-us/articles/360007282013-Change-microphone-volume-Windows-10-#:~:text=In%20the%20Sounds%20Settings%20window,adjust%20your%20microphone%20volume%20settings. "Google's Homepage")
-2. MacOS - [I'm an inline-style link with title](https://hirevuesupport.zendesk.com/hc/en-us/articles/360028433311-Microphone-Settings-Mac-Apple- "Google's Homepage")
-3. Linux - [I'm an inline-style link with title](https://superuser.com/questions/160425/ubuntu-best-way-to-set-microphone-volume-by-command-line "Google's Homepage")
+1. [Windows10](https://support.shadowhealth.com/hc/en-us/articles/360007282013-Change-microphone-volume-Windows-10-#:~:text=In%20the%20Sounds%20Settings%20window,adjust%20your%20microphone%20volume%20settings. "Mic adjustment for Windows10")
+2. [MacOS](https://hirevuesupport.zendesk.com/hc/en-us/articles/360028433311-Microphone-Settings-Mac-Apple- "Mic adjustment for MacOS")
+3. [Linux](https://superuser.com/questions/160425/ubuntu-best-way-to-set-microphone-volume-by-command-line "Mic adjustment for Linux")
