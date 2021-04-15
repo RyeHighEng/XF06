@@ -23,3 +23,9 @@ Adjusting Gain of Microphone:
 1. [Windows10](https://support.shadowhealth.com/hc/en-us/articles/360007282013-Change-microphone-volume-Windows-10-#:~:text=In%20the%20Sounds%20Settings%20window,adjust%20your%20microphone%20volume%20settings. "Mic adjustment for Windows10")
 2. [MacOS](https://hirevuesupport.zendesk.com/hc/en-us/articles/360028433311-Microphone-Settings-Mac-Apple- "Mic adjustment for MacOS")
 3. [Linux](https://superuser.com/questions/160425/ubuntu-best-way-to-set-microphone-volume-by-command-line "Mic adjustment for Linux")
+
+Video Demos:
+Arduino:
+1 [Serial monitor output] (https://youtu.be/oxeDfgtWYPY)
+2 [Temperature Sensor] (https://youtu.be/1eVb2hjvoEk)
+3 [Overall Circuit Functionality] (https://youtu.be/Kjmz-ZI_eCw)
