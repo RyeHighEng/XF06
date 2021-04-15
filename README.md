@@ -24,8 +24,15 @@ Adjusting Gain of Microphone:
 2. [MacOS](https://hirevuesupport.zendesk.com/hc/en-us/articles/360028433311-Microphone-Settings-Mac-Apple- "Mic adjustment for MacOS")
 3. [Linux](https://superuser.com/questions/160425/ubuntu-best-way-to-set-microphone-volume-by-command-line "Mic adjustment for Linux")
 
-Video Demos:
+# Video Demos:
 Arduino:
-1. [Serial monitor output] (https://youtu.be/oxeDfgtWYPY)
-2. [Temperature Sensor] (https://youtu.be/1eVb2hjvoEk)
-3. [Overall Circuit Functionality] (https://youtu.be/Kjmz-ZI_eCw)
+1. [Serial monitor output](https://youtu.be/oxeDfgtWYPY)
+2. [Temperature Sensor](https://youtu.be/1eVb2hjvoEk)
+3. [Overall Circuit Functionality](https://youtu.be/Kjmz-ZI_eCw)
+
+Raspberry Pi:
+1. [Final Demo](https://youtu.be/IpK6VdAHvu4)
+2. [Temperature Sensor Test](https://youtu.be/S5pPv03JiRM)
+3. [Initial Test on RPi](https://youtu.be/n8RuQ5NcfJI)
+4. [Speech Recognition Test #2](https://youtu.be/AA12wGYSbVo)
+5. [Speech Recogntion Test #1](https://youtu.be/QmjXiwi-QFw)
