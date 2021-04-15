@@ -26,6 +26,6 @@ Adjusting Gain of Microphone:
 
 Video Demos:
 Arduino:
-1 [Serial monitor output] (https://youtu.be/oxeDfgtWYPY)
-2 [Temperature Sensor] (https://youtu.be/1eVb2hjvoEk)
-3 [Overall Circuit Functionality] (https://youtu.be/Kjmz-ZI_eCw)
+1. [Serial monitor output] (https://youtu.be/oxeDfgtWYPY)
+2. [Temperature Sensor] (https://youtu.be/1eVb2hjvoEk)
+3. [Overall Circuit Functionality] (https://youtu.be/Kjmz-ZI_eCw)
